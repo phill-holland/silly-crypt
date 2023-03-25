@@ -38,5 +38,6 @@ exec
 /**/.vs/**/*
 /**/debug/**/*
 /**/release/**/*
+/**/build/**/*
 /**/CMakeFiles/**/*
 /**/learning/clearning/build/**/*

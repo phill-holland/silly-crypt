@@ -1,6 +1,6 @@
 <b>Silly-Crypt</b>
 
-This application demonstrates simple encryption techniques.
+This application demonstrates simple encryption techniques.  It randomly jumbles an input string, using a seed number as the "key" to decrypt the original message.
 
 <ul>
 <li><b>Ensure project is open within the VSCode development container</b></li>
