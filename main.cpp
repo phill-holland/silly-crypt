@@ -1,11 +1,5 @@
 #include <iostream>
-#include <fstream>
-#include <vector>
-#include <algorithm>
-#include <unordered_map>
-#include <stdlib.h>
 #include <string.h>
-#include <random>
 #include "enc.h"
 
 using namespace std;

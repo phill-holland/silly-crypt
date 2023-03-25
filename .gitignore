@@ -33,6 +33,8 @@ log.txt
 
 *.o
 
+data.bin
+
 exec
 
 /**/.vs/**/*
